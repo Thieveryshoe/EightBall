@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EightBall": {
+      "commandName": "Project",
+      "commandLineArgs": "-l spanish"
+    }
+  }
+}
