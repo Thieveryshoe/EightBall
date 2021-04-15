@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using EightBallLib;
 
-namespace French
+namespace English
 {
-    public class FrenchLanguagePack : ILanguagePack
+    public class French : ILanguagePack
     {
         public string Language => "French";
         public string WelcomeMessage => "Que voulez-vous demander à la boule magique?";

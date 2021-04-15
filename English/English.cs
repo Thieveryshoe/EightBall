@@ -3,7 +3,7 @@ using EightBallLib;
 
 namespace English
 {
-    public class EnglishLanguagePack : ILanguagePack
+    public class English : ILanguagePack
     {
         public string Language => "English";
         public string WelcomeMessage => "What would you like to ask the magic eight ball?";

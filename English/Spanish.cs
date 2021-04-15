@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using EightBallLib;
 
-namespace Spanish
+namespace English
 {
-    public class SpanishLanguagePack : ILanguagePack
+    public class Spanish : ILanguagePack
     {
         public string Language => "Spanish";
         public string WelcomeMessage => "Spanish welcome message";

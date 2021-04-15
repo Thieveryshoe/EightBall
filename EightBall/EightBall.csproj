@@ -13,7 +13,6 @@
   <ItemGroup>
     <ProjectReference Include="..\EightBallLib\EightBallLib.csproj" />
     <ProjectReference Include="..\English\English.csproj" />
-    <ProjectReference Include="..\Spanish\Spanish.csproj" />
   </ItemGroup>
 
 </Project>
