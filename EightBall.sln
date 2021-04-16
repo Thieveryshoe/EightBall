@@ -9,8 +9,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EightBallTests", "EightBall
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EightBallLib", "EightBallLib\EightBallLib.csproj", "{A3493115-53E9-4E42-BE35-AF871F656ACC}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LanguagePlugins", "LanguagePlugins", "{534530EF-4668-4B28-BB8D-59FAE96B511F}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LanguagePacks", "LanguagePacks\LanguagePacks.csproj", "{7C9EE757-EE0D-40BA-B90D-8F989ED7C1C3}"
 EndProject
 Global
@@ -38,9 +36,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{7C9EE757-EE0D-40BA-B90D-8F989ED7C1C3} = {534530EF-4668-4B28-BB8D-59FAE96B511F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {443B4684-83DB-4F4E-9AA8-2BFF379C1394}
