@@ -11,9 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EightBallLib", "EightBallLi
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LanguagePlugins", "LanguagePlugins", "{534530EF-4668-4B28-BB8D-59FAE96B511F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "English", "English\English.csproj", "{9BF97C88-82B1-48FC-A826-64D568A274E7}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanguagePacks", "LanguagePacks\LanguagePacks.csproj", "{7C9EE757-EE0D-40BA-B90D-8F989ED7C1C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LanguagePacks", "LanguagePacks\LanguagePacks.csproj", "{7C9EE757-EE0D-40BA-B90D-8F989ED7C1C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,10 +31,6 @@ Global
 		{A3493115-53E9-4E42-BE35-AF871F656ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3493115-53E9-4E42-BE35-AF871F656ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3493115-53E9-4E42-BE35-AF871F656ACC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9BF97C88-82B1-48FC-A826-64D568A274E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9BF97C88-82B1-48FC-A826-64D568A274E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9BF97C88-82B1-48FC-A826-64D568A274E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9BF97C88-82B1-48FC-A826-64D568A274E7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7C9EE757-EE0D-40BA-B90D-8F989ED7C1C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7C9EE757-EE0D-40BA-B90D-8F989ED7C1C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C9EE757-EE0D-40BA-B90D-8F989ED7C1C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -46,7 +40,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{9BF97C88-82B1-48FC-A826-64D568A274E7} = {534530EF-4668-4B28-BB8D-59FAE96B511F}
 		{7C9EE757-EE0D-40BA-B90D-8F989ED7C1C3} = {534530EF-4668-4B28-BB8D-59FAE96B511F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution

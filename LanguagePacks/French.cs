@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using EightBallLib;
 
-namespace English
+namespace LanguagePacks
 {
     public class French : ILanguagePack
     {

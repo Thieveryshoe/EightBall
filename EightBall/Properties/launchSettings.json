@@ -2,7 +2,7 @@
   "profiles": {
     "EightBall": {
       "commandName": "Project",
-      "commandLineArgs": "-l English"
+      "commandLineArgs": "-l english"
     }
   }
 }
